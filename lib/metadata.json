@@ -1,0 +1,3165 @@
+{
+  "vaultName": "A Level Wikipedia",
+  "lastExport": 1708543931375,
+  "pluginVersion": "1.8.0",
+  "validBodyClasses": "publish css-settings-manager theme-light show-inline-title heading-ligatures circled-ol callout-border-gradient",
+  "useCustomHeadContent": false,
+  "useCustomFavicon": false,
+  "files": [
+    "Canvases/particle categories.canvas",
+    "Files/aggregation.jpg",
+    "Files/AND gate.png",
+    "Files/argand diagram.png",
+    "Files/assembly language instructions.png",
+    "Files/carbon atom diagram.jpg",
+    "Files/class diagram example.PNG",
+    "Files/composition.jpg",
+    "Files/CPU diagram.jpg",
+    "Files/entity relations.png",
+    "Files/entity relationship example.png",
+    "Files/explaining trig functions.png",
+    "Files/matrix transformations.png",
+    "Files/NAND gate.png",
+    "Files/NOR gate.png",
+    "Files/NOT gate.png",
+    "Files/OR gate.png",
+    "Files/parabola diagram.png",
+    "Files/processor.jpg",
+    "Files/Raybox diagram.png",
+    "Files/Resultant force 1.png.png",
+    "Files/RP1 diagram.PNG",
+    "Files/strong nuclear force against electrostatic force.jpg",
+    "Files/vector components.png",
+    "Files/XOR gate.png",
+    "Home Pages/computing/1. fundamentals of programming.md",
+    "Home Pages/computing/4. hardware and software.md",
+    "Home Pages/computing/5. fundamentals of data representation.md",
+    "Home Pages/computing/7. fundamentals of computer organisation and architecture.md",
+    "Home Pages/computing/11. fundamentals of databases.md",
+    "Home Pages/computing/NEA project.md",
+    "Home Pages/further maths/0. further maths equation sheet.md",
+    "Home Pages/further maths/1. proof.md",
+    "Home Pages/further maths/2. complex numbers.md",
+    "Home Pages/further maths/3. matrices.md",
+    "Home Pages/further maths/4. further algebra and functions.md",
+    "Home Pages/further maths/6. further vectors.md",
+    "Home Pages/maths/0. maths equation sheet.md",
+    "Home Pages/maths/2. algebra and functions.md",
+    "Home Pages/maths/4. sequences and series.md",
+    "Home Pages/maths/5. trigonometry.md",
+    "Home Pages/maths/7. differentiation.md",
+    "Home Pages/physics/1. measurements and their errors.md",
+    "Home Pages/physics/2. particles and radiation.md",
+    "Home Pages/physics/3. waves.md",
+    "Home Pages/physics/4. mechanics and energy.md",
+    "Home Pages/physics/5. electricity.md",
+    "Home Pages/Cipher Challenge 2024.md",
+    "Home Pages/practicals.md",
+    "References/glossary.md",
+    "Zettlekasten/2's compliment.md",
+    "Zettlekasten/3D transformations.md",
+    "Zettlekasten/aaah please work.html",
+    "Zettlekasten/absolute error.md",
+    "Zettlekasten/abstraction.md",
+    "Zettlekasten/acceleration.md",
+    "Zettlekasten/access modifiers.md",
+    "Zettlekasten/accuracy.md",
+    "Zettlekasten/actual charge.md",
+    "Zettlekasten/actual mass.md",
+    "Zettlekasten/address bus.md",
+    "Zettlekasten/addressing mode.md",
+    "Zettlekasten/aggregation.md",
+    "Zettlekasten/analogue.md",
+    "Zettlekasten/AND.md",
+    "Zettlekasten/angle of incidence.md",
+    "Zettlekasten/angle of refraction.md",
+    "Zettlekasten/angles between vectors.md",
+    "Zettlekasten/annihilation.md",
+    "Zettlekasten/answering a differentiation question.md",
+    "Zettlekasten/antineutrino.md",
+    "Zettlekasten/antiparticle.md",
+    "Zettlekasten/application layer.md",
+    "Zettlekasten/application programming interface.md",
+    "Zettlekasten/application software.md",
+    "Zettlekasten/argand diagram.md",
+    "Zettlekasten/argument.md",
+    "Zettlekasten/arithmetic logic unit.md",
+    "Zettlekasten/arithmetic sequence.md",
+    "Zettlekasten/arithmetic series.md",
+    "Zettlekasten/assembler.md",
+    "Zettlekasten/assembly.md",
+    "Zettlekasten/association.md",
+    "Zettlekasten/attribute.md",
+    "Zettlekasten/AZ notation.md",
+    "Zettlekasten/barcode reader.md",
+    "Zettlekasten/baryon.md",
+    "Zettlekasten/baryon number.md",
+    "Zettlekasten/base.md",
+    "Zettlekasten/binary.md",
+    "Zettlekasten/binary decimals.md",
+    "Zettlekasten/binomial expansion.md",
+    "Zettlekasten/braking and stopping.md",
+    "Zettlekasten/buses.md",
+    "Zettlekasten/bytecode.md",
+    "Zettlekasten/centre of mass.md",
+    "Zettlekasten/check digit.md",
+    "Zettlekasten/checksum (fundamentals of data representation).md",
+    "Zettlekasten/choose.md",
+    "Zettlekasten/circle.md",
+    "Zettlekasten/class.md",
+    "Zettlekasten/class diagram.md",
+    "Zettlekasten/clock.md",
+    "Zettlekasten/coherent.md",
+    "Zettlekasten/collisions of electrons with atoms.md",
+    "Zettlekasten/compiler.md",
+    "Zettlekasten/complex number.md",
+    "Zettlekasten/composition.md",
+    "Zettlekasten/compression.md",
+    "Zettlekasten/computer system.md",
+    "Zettlekasten/concave.md",
+    "Zettlekasten/conic sections.md",
+    "Zettlekasten/conjugate.md",
+    "Zettlekasten/constructive interference.md",
+    "Zettlekasten/constructor.md",
+    "Zettlekasten/continuous.md",
+    "Zettlekasten/control bus.md",
+    "Zettlekasten/control unit.md",
+    "Zettlekasten/convex.md",
+    "Zettlekasten/convex combination.md",
+    "Zettlekasten/cosine rule.md",
+    "Zettlekasten/CPU.md",
+    "Zettlekasten/creation.md",
+    "Zettlekasten/critical angle.md",
+    "Zettlekasten/cross product.md",
+    "Zettlekasten/current.md",
+    "Zettlekasten/current instruction register.md",
+    "Zettlekasten/data bus.md",
+    "Zettlekasten/decreasing function.md",
+    "Zettlekasten/dedicated register.md",
+    "Zettlekasten/denary.md",
+    "Zettlekasten/derivative.md",
+    "Zettlekasten/destructive interference.md",
+    "Zettlekasten/destructor.md",
+    "Zettlekasten/determinant.md",
+    "Zettlekasten/device driver.md",
+    "Zettlekasten/dictionary.md",
+    "Zettlekasten/differentiating trig functions.md",
+    "Zettlekasten/diffraction.md",
+    "Zettlekasten/diffraction grating.md",
+    "Zettlekasten/digital.md",
+    "Zettlekasten/digital cameras.md",
+    "Zettlekasten/direct addressing.md",
+    "Zettlekasten/discrete.md",
+    "Zettlekasten/displacement.md",
+    "Zettlekasten/distance.md",
+    "Zettlekasten/dot product.md",
+    "Zettlekasten/dynamic data structures.md",
+    "Zettlekasten/efficiency of a bouncy ball.md",
+    "Zettlekasten/electron.md",
+    "Zettlekasten/electron capture.md",
+    "Zettlekasten/element.md",
+    "Zettlekasten/ellipse.md",
+    "Zettlekasten/embedded system.md",
+    "Zettlekasten/encapsulation.md",
+    "Zettlekasten/endian.md",
+    "Zettlekasten/energy.md",
+    "Zettlekasten/energy levels and spectra.md",
+    "Zettlekasten/energy well.md",
+    "Zettlekasten/entity.md",
+    "Zettlekasten/entity relationship diagrams.md",
+    "Zettlekasten/equation of a plane.md",
+    "Zettlekasten/error detection.md",
+    "Zettlekasten/exchange particle.md",
+    "Zettlekasten/excitation.md",
+    "Zettlekasten/exponent.md",
+    "Zettlekasten/factor theorem.md",
+    "Zettlekasten/factorial.md",
+    "Zettlekasten/Feynman diagrams.md",
+    "Zettlekasten/Fibonacci sequence.md",
+    "Zettlekasten/folding method.md",
+    "Zettlekasten/force-time graph.md",
+    "Zettlekasten/function (fundamentals of programming).md",
+    "Zettlekasten/function (maths).md",
+    "Zettlekasten/fundamental force.md",
+    "Zettlekasten/fundamental particle.md",
+    "Zettlekasten/fundamental theory of calculus.md",
+    "Zettlekasten/general purpose computer.md",
+    "Zettlekasten/general purpose register.md",
+    "Zettlekasten/geometric sequence.md",
+    "Zettlekasten/geometric series.md",
+    "Zettlekasten/getter.md",
+    "Zettlekasten/global variable.md",
+    "Zettlekasten/graph.md",
+    "Zettlekasten/gravitational potential energy.md",
+    "Zettlekasten/ground state.md",
+    "Zettlekasten/hadron.md",
+    "Zettlekasten/hardware.md",
+    "Zettlekasten/Harvard architecture.md",
+    "Zettlekasten/hash table.md",
+    "Zettlekasten/hashing algorithm.md",
+    "Zettlekasten/hexadecimal.md",
+    "Zettlekasten/imaginary.md",
+    "Zettlekasten/immediate addressing.md",
+    "Zettlekasten/incident ray.md",
+    "Zettlekasten/increasing function.md",
+    "Zettlekasten/indefinite integration.md",
+    "Zettlekasten/inertia.md",
+    "Zettlekasten/infinite series expansion.md",
+    "Zettlekasten/inheritance.md",
+    "Zettlekasten/input output devices.md",
+    "Zettlekasten/instantiation.md",
+    "Zettlekasten/instruction set.md",
+    "Zettlekasten/instrument range.md",
+    "Zettlekasten/integration.md",
+    "Zettlekasten/interface.md",
+    "Zettlekasten/interference.md",
+    "Zettlekasten/internal computer hardware.md",
+    "Zettlekasten/internet.md",
+    "Zettlekasten/internet security.md",
+    "Zettlekasten/interpreter.md",
+    "Zettlekasten/inverse matrices.md",
+    "Zettlekasten/investigating the photoelectric effect.md",
+    "Zettlekasten/ions.md",
+    "Zettlekasten/isotope.md",
+    "Zettlekasten/isotopic data.md",
+    "Zettlekasten/kaon.md",
+    "Zettlekasten/kinetic energy.md",
+    "Zettlekasten/laser printers.md",
+    "Zettlekasten/lepton.md",
+    "Zettlekasten/lepton number.md",
+    "Zettlekasten/library.md",
+    "Zettlekasten/linear transformations.md",
+    "Zettlekasten/linearity.md",
+    "Zettlekasten/link layer.md",
+    "Zettlekasten/list.md",
+    "Zettlekasten/local maximum.md",
+    "Zettlekasten/local minimum.md",
+    "Zettlekasten/local variable.md",
+    "Zettlekasten/loci.md",
+    "Zettlekasten/logic gates.md",
+    "Zettlekasten/logical bitwise operator.md",
+    "Zettlekasten/longitudinal waves.md",
+    "Zettlekasten/lossless compression.md",
+    "Zettlekasten/lossy compression.md",
+    "Zettlekasten/MAC address.md",
+    "Zettlekasten/machine code.md",
+    "Zettlekasten/magnetic storage.md",
+    "Zettlekasten/majority bit check.md",
+    "Zettlekasten/mantissa.md",
+    "Zettlekasten/matrix transformations.md",
+    "Zettlekasten/medium.md",
+    "Zettlekasten/memory address register.md",
+    "Zettlekasten/memory buffer register.md",
+    "Zettlekasten/meson.md",
+    "Zettlekasten/metadata.md",
+    "Zettlekasten/method.md",
+    "Zettlekasten/MIDI.md",
+    "Zettlekasten/minor.md",
+    "Zettlekasten/modulus.md",
+    "Zettlekasten/Moments.md",
+    "Zettlekasten/momentum.md",
+    "Zettlekasten/MSB.md",
+    "Zettlekasten/multiplying matrices.md",
+    "Zettlekasten/muon.md",
+    "Zettlekasten/NAND.md",
+    "Zettlekasten/NAND flash memory cells.md",
+    "Zettlekasten/network layer.md",
+    "Zettlekasten/neutrino.md",
+    "Zettlekasten/neutrons.md",
+    "Zettlekasten/Newton’s 1st Law.md",
+    "Zettlekasten/Newton’s 2nd Law.md",
+    "Zettlekasten/Newton’s 3rd Law.md",
+    "Zettlekasten/Newton’s Laws of Motion.md",
+    "Zettlekasten/NOR.md",
+    "Zettlekasten/normal.md",
+    "Zettlekasten/normalisation (fundamentals of data representation).md",
+    "Zettlekasten/normalisation (fundamentals of databases).md",
+    "Zettlekasten/NOT.md",
+    "Zettlekasten/nucleon.md",
+    "Zettlekasten/nucleus.md",
+    "Zettlekasten/nuclide.md",
+    "Zettlekasten/number systems.md",
+    "Zettlekasten/nyquist theorem.md",
+    "Zettlekasten/object.md",
+    "Zettlekasten/object oriented programming.md",
+    "Zettlekasten/operand.md",
+    "Zettlekasten/operating system.md",
+    "Zettlekasten/operation code.md",
+    "Zettlekasten/optical fibres.md",
+    "Zettlekasten/optical storage.md",
+    "Zettlekasten/OR.md",
+    "Zettlekasten/oscilloscope.md",
+    "Zettlekasten/parabola.md",
+    "Zettlekasten/parity bit.md",
+    "Zettlekasten/partial fractions.md",
+    "Zettlekasten/particle reaction quantities.md",
+    "Zettlekasten/particle wave duality.md",
+    "Zettlekasten/pascal's triangle.md",
+    "Zettlekasten/path difference.md",
+    "Zettlekasten/peripherals.md",
+    "Zettlekasten/phase difference.md",
+    "Zettlekasten/photoelectric effect.md",
+    "Zettlekasten/photoelectron.md",
+    "Zettlekasten/photon.md",
+    "Zettlekasten/pion.md",
+    "Zettlekasten/point of inflection.md",
+    "Zettlekasten/polarisation.md",
+    "Zettlekasten/polymorphism.md",
+    "Zettlekasten/polynomial.md",
+    "Zettlekasten/power (algebra and functions).md",
+    "Zettlekasten/power (mechanics and energy).md",
+    "Zettlekasten/precision.md",
+    "Zettlekasten/primary key.md",
+    "Zettlekasten/private.md",
+    "Zettlekasten/procedural programming.md",
+    "Zettlekasten/procedure.md",
+    "Zettlekasten/processor.md",
+    "Zettlekasten/program counter.md",
+    "Zettlekasten/programming concepts.md",
+    "Zettlekasten/programming language translators.md",
+    "Zettlekasten/projectile motion.md",
+    "Zettlekasten/proof by deduction.md",
+    "Zettlekasten/proof by division.md",
+    "Zettlekasten/proof by induction.md",
+    "Zettlekasten/proof by matrices.md",
+    "Zettlekasten/protected.md",
+    "Zettlekasten/public.md",
+    "Zettlekasten/QR code.md",
+    "Zettlekasten/quark.md",
+    "Zettlekasten/queue.md",
+    "Zettlekasten/RAM.md",
+    "Zettlekasten/random errors.md",
+    "Zettlekasten/real.md",
+    "Zettlekasten/reciprocal.md",
+    "Zettlekasten/rectangular hyperbola.md",
+    "Zettlekasten/recursive sequence.md",
+    "Zettlekasten/refraction.md",
+    "Zettlekasten/refractive index.md",
+    "Zettlekasten/relation.md",
+    "Zettlekasten/relative charge.md",
+    "Zettlekasten/relative error.md",
+    "Zettlekasten/relative mass.md",
+    "Zettlekasten/repeatable and reproduceable.md",
+    "Zettlekasten/representing images.md",
+    "Zettlekasten/representing sound.md",
+    "Zettlekasten/resolution.md",
+    "Zettlekasten/resolving vectors.md",
+    "Zettlekasten/resultant vector.md",
+    "Zettlekasten/reverse polish notation.md",
+    "Zettlekasten/RFID.md",
+    "Zettlekasten/ROM.md",
+    "Zettlekasten/roots of polynomials.md",
+    "Zettlekasten/sampling rate.md",
+    "Zettlekasten/sampling resolution.md",
+    "Zettlekasten/scalar.md",
+    "Zettlekasten/second derivative.md",
+    "Zettlekasten/secondary storage.md",
+    "Zettlekasten/sequence.md",
+    "Zettlekasten/series.md",
+    "Zettlekasten/setter.md",
+    "Zettlekasten/SI base units.md",
+    "Zettlekasten/sign bit.md",
+    "Zettlekasten/singular matrix.md",
+    "Zettlekasten/Snell’s law.md",
+    "Zettlekasten/software.md",
+    "Zettlekasten/solid state storage.md",
+    "Zettlekasten/source code.md",
+    "Zettlekasten/specific charge.md",
+    "Zettlekasten/specificity of measurement.md",
+    "Zettlekasten/speed and velocity.md",
+    "Zettlekasten/stable equilibrium.md",
+    "Zettlekasten/stack.md",
+    "Zettlekasten/static data structures.md",
+    "Zettlekasten/stationary point.md",
+    "Zettlekasten/status register.md",
+    "Zettlekasten/stopping potential.md",
+    "Zettlekasten/stored program concept.md",
+    "Zettlekasten/strangeness.md",
+    "Zettlekasten/strong nuclear force.md",
+    "Zettlekasten/subclass.md",
+    "Zettlekasten/subroutine.md",
+    "Zettlekasten/successive transformations.md",
+    "Zettlekasten/sum.md",
+    "Zettlekasten/summation.md",
+    "Zettlekasten/superclass.md",
+    "Zettlekasten/SUVAT equations.md",
+    "Zettlekasten/system software.md",
+    "Zettlekasten/systematic errors.md",
+    "Zettlekasten/tangent (trigonometry).md",
+    "Zettlekasten/TCP-IP protocol stack.md",
+    "Zettlekasten/term.md",
+    "Zettlekasten/Text evaluation.md",
+    "Zettlekasten/The Galois field.md",
+    "Zettlekasten/the principle of conservation of momentum.md",
+    "Zettlekasten/threshold frequency.md",
+    "Zettlekasten/total internal reflection.md",
+    "Zettlekasten/transport layer.md",
+    "Zettlekasten/transverse waves.md",
+    "Zettlekasten/trees.md",
+    "Zettlekasten/trigonometric identities.md",
+    "Zettlekasten/trigonometric values.md",
+    "Zettlekasten/uncertainty.md",
+    "Zettlekasten/underflow error.md",
+    "Zettlekasten/UPC-A.md",
+    "Zettlekasten/utility software.md",
+    "Zettlekasten/valid.md",
+    "Zettlekasten/vector (fundamentals of data representation).md",
+    "Zettlekasten/vector (mechanics and energy).md",
+    "Zettlekasten/vector component (mechanics and energy).md",
+    "Zettlekasten/vector images.md",
+    "Zettlekasten/velocity.md",
+    "Zettlekasten/Von Neumann architecture.md",
+    "Zettlekasten/weak nuclear force.md",
+    "Zettlekasten/word length.md",
+    "Zettlekasten/work.md",
+    "Zettlekasten/work function.md",
+    "Zettlekasten/XOR.md",
+    "Zettlekasten/zero error.md",
+    "lib/fonts/94f2f163d4b698242fef.otf",
+    "lib/fonts/72505e6a122c6acd5471.woff2",
+    "lib/fonts/2d5198822ab091ce4305.woff2",
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/media/874d8b8e340f75575caa.svg",
+    "lib/fonts/MathJax_Zero.woff",
+    "lib/fonts/MathJax_Main-Regular.woff",
+    "lib/fonts/MathJax_Main-Bold.woff",
+    "lib/fonts/MathJax_Math-Italic.woff",
+    "lib/fonts/MathJax_Main-Italic.woff",
+    "lib/fonts/MathJax_Math-BoldItalic.woff",
+    "lib/fonts/MathJax_Size1-Regular.woff",
+    "lib/fonts/MathJax_Size2-Regular.woff",
+    "lib/fonts/MathJax_Size3-Regular.woff",
+    "lib/fonts/MathJax_Size4-Regular.woff",
+    "lib/fonts/MathJax_AMS-Regular.woff",
+    "lib/fonts/MathJax_Calligraphic-Regular.woff",
+    "lib/fonts/MathJax_Calligraphic-Bold.woff",
+    "lib/fonts/MathJax_Fraktur-Regular.woff",
+    "lib/fonts/MathJax_Fraktur-Bold.woff",
+    "lib/fonts/MathJax_SansSerif-Regular.woff",
+    "lib/fonts/MathJax_SansSerif-Bold.woff",
+    "lib/fonts/MathJax_SansSerif-Italic.woff",
+    "lib/fonts/MathJax_Script-Regular.woff",
+    "lib/fonts/MathJax_Typewriter-Regular.woff",
+    "lib/fonts/MathJax_Vector-Regular.woff",
+    "lib/fonts/MathJax_Vector-Bold.woff"
+  ],
+  "mainDependencies": [
+    "lib/fonts/94f2f163d4b698242fef.otf",
+    "lib/fonts/72505e6a122c6acd5471.woff2",
+    "lib/fonts/2d5198822ab091ce4305.woff2",
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/media/874d8b8e340f75575caa.svg",
+    "lib/fonts/MathJax_Zero.woff",
+    "lib/fonts/MathJax_Main-Regular.woff",
+    "lib/fonts/MathJax_Main-Bold.woff",
+    "lib/fonts/MathJax_Math-Italic.woff",
+    "lib/fonts/MathJax_Main-Italic.woff",
+    "lib/fonts/MathJax_Math-BoldItalic.woff",
+    "lib/fonts/MathJax_Size1-Regular.woff",
+    "lib/fonts/MathJax_Size2-Regular.woff",
+    "lib/fonts/MathJax_Size3-Regular.woff",
+    "lib/fonts/MathJax_Size4-Regular.woff",
+    "lib/fonts/MathJax_AMS-Regular.woff",
+    "lib/fonts/MathJax_Calligraphic-Regular.woff",
+    "lib/fonts/MathJax_Calligraphic-Bold.woff",
+    "lib/fonts/MathJax_Fraktur-Regular.woff",
+    "lib/fonts/MathJax_Fraktur-Bold.woff",
+    "lib/fonts/MathJax_SansSerif-Regular.woff",
+    "lib/fonts/MathJax_SansSerif-Bold.woff",
+    "lib/fonts/MathJax_SansSerif-Italic.woff",
+    "lib/fonts/MathJax_Script-Regular.woff",
+    "lib/fonts/MathJax_Typewriter-Regular.woff",
+    "lib/fonts/MathJax_Vector-Regular.woff",
+    "lib/fonts/MathJax_Vector-Bold.woff"
+  ],
+  "fileInfo": {
+    "Canvases/particle categories.canvas": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 2056,
+      "exportedPath": "Canvases/particle categories.html",
+      "dependencies": []
+    },
+    "Files/aggregation.jpg": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 18734,
+      "exportedPath": "Files/aggregation.jpg",
+      "dependencies": []
+    },
+    "Files/AND gate.png": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 7287,
+      "exportedPath": "Files/AND gate.png",
+      "dependencies": []
+    },
+    "Files/argand diagram.png": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 21735,
+      "exportedPath": "Files/argand diagram.png",
+      "dependencies": []
+    },
+    "Files/assembly language instructions.png": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 85601,
+      "exportedPath": "Files/assembly language instructions.png",
+      "dependencies": []
+    },
+    "Files/carbon atom diagram.jpg": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 192802,
+      "exportedPath": "Files/carbon atom diagram.jpg",
+      "dependencies": []
+    },
+    "Files/class diagram example.PNG": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 28335,
+      "exportedPath": "Files/class diagram example.png",
+      "dependencies": []
+    },
+    "Files/composition.jpg": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 15648,
+      "exportedPath": "Files/composition.jpg",
+      "dependencies": []
+    },
+    "Files/CPU diagram.jpg": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 252388,
+      "exportedPath": "Files/CPU diagram.jpg",
+      "dependencies": []
+    },
+    "Files/entity relations.png": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 61380,
+      "exportedPath": "Files/entity relations.png",
+      "dependencies": []
+    },
+    "Files/entity relationship example.png": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 139576,
+      "exportedPath": "Files/entity relationship example.png",
+      "dependencies": []
+    },
+    "Files/explaining trig functions.png": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 68922,
+      "exportedPath": "Files/explaining trig functions.png",
+      "dependencies": []
+    },
+    "Files/matrix transformations.png": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 28530,
+      "exportedPath": "Files/matrix transformations.png",
+      "dependencies": []
+    },
+    "Files/NAND gate.png": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 8225,
+      "exportedPath": "Files/NAND gate.png",
+      "dependencies": []
+    },
+    "Files/NOR gate.png": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 9805,
+      "exportedPath": "Files/NOR gate.png",
+      "dependencies": []
+    },
+    "Files/NOT gate.png": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 5968,
+      "exportedPath": "Files/NOT gate.png",
+      "dependencies": []
+    },
+    "Files/OR gate.png": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 8670,
+      "exportedPath": "Files/OR gate.png",
+      "dependencies": []
+    },
+    "Files/parabola diagram.png": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 49417,
+      "exportedPath": "Files/parabola diagram.png",
+      "dependencies": []
+    },
+    "Files/processor.jpg": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 282689,
+      "exportedPath": "Files/processor.jpg",
+      "dependencies": []
+    },
+    "Files/Raybox diagram.png": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 79061,
+      "exportedPath": "Files/Raybox diagram.png",
+      "dependencies": []
+    },
+    "Files/Resultant force 1.png.png": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 52061,
+      "exportedPath": "Files/Resultant force 1.png.png",
+      "dependencies": []
+    },
+    "Files/RP1 diagram.PNG": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 16831,
+      "exportedPath": "Files/RP1 diagram.png",
+      "dependencies": []
+    },
+    "Files/strong nuclear force against electrostatic force.jpg": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 161956,
+      "exportedPath": "Files/strong nuclear force against electrostatic force.jpg",
+      "dependencies": []
+    },
+    "Files/vector components.png": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 6557,
+      "exportedPath": "Files/vector components.png",
+      "dependencies": []
+    },
+    "Files/XOR gate.png": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 10050,
+      "exportedPath": "Files/XOR gate.png",
+      "dependencies": []
+    },
+    "Home Pages/computing/1. fundamentals of programming.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 521,
+      "exportedPath": "Home Pages/computing/1. fundamentals of programming.html",
+      "dependencies": []
+    },
+    "Home Pages/computing/4. hardware and software.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 540,
+      "exportedPath": "Home Pages/computing/4. hardware and software.html",
+      "dependencies": []
+    },
+    "Home Pages/computing/5. fundamentals of data representation.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 886,
+      "exportedPath": "Home Pages/computing/5. fundamentals of data representation.html",
+      "dependencies": []
+    },
+    "Home Pages/computing/7. fundamentals of computer organisation and architecture.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 521,
+      "exportedPath": "Home Pages/computing/7. fundamentals of computer organisation and architecture.html",
+      "dependencies": []
+    },
+    "Home Pages/computing/11. fundamentals of databases.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 789,
+      "exportedPath": "Home Pages/computing/11. fundamentals of databases.html",
+      "dependencies": []
+    },
+    "Home Pages/computing/NEA project.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 652,
+      "exportedPath": "Home Pages/computing/NEA project.html",
+      "dependencies": []
+    },
+    "Home Pages/further maths/0. further maths equation sheet.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 678,
+      "exportedPath": "Home Pages/further maths/0. further maths equation sheet.html",
+      "dependencies": []
+    },
+    "Home Pages/further maths/1. proof.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 554,
+      "exportedPath": "Home Pages/further maths/1. proof.html",
+      "dependencies": []
+    },
+    "Home Pages/further maths/2. complex numbers.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 848,
+      "exportedPath": "Home Pages/further maths/2. complex numbers.html",
+      "dependencies": []
+    },
+    "Home Pages/further maths/3. matrices.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 1299,
+      "exportedPath": "Home Pages/further maths/3. matrices.html",
+      "dependencies": []
+    },
+    "Home Pages/further maths/4. further algebra and functions.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 558,
+      "exportedPath": "Home Pages/further maths/4. further algebra and functions.html",
+      "dependencies": []
+    },
+    "Home Pages/further maths/6. further vectors.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 554,
+      "exportedPath": "Home Pages/further maths/6. further vectors.html",
+      "dependencies": []
+    },
+    "Home Pages/maths/0. maths equation sheet.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 1113,
+      "exportedPath": "Home Pages/maths/0. maths equation sheet.html",
+      "dependencies": []
+    },
+    "Home Pages/maths/2. algebra and functions.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 507,
+      "exportedPath": "Home Pages/maths/2. algebra and functions.html",
+      "dependencies": []
+    },
+    "Home Pages/maths/4. sequences and series.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 488,
+      "exportedPath": "Home Pages/maths/4. sequences and series.html",
+      "dependencies": []
+    },
+    "Home Pages/maths/5. trigonometry.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 552,
+      "exportedPath": "Home Pages/maths/5. trigonometry.html",
+      "dependencies": []
+    },
+    "Home Pages/maths/7. differentiation.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 914,
+      "exportedPath": "Home Pages/maths/7. differentiation.html",
+      "dependencies": []
+    },
+    "Home Pages/physics/1. measurements and their errors.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 642,
+      "exportedPath": "Home Pages/physics/1. measurements and their errors.html",
+      "dependencies": []
+    },
+    "Home Pages/physics/2. particles and radiation.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 484,
+      "exportedPath": "Home Pages/physics/2. particles and radiation.html",
+      "dependencies": []
+    },
+    "Home Pages/physics/3. waves.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 550,
+      "exportedPath": "Home Pages/physics/3. waves.html",
+      "dependencies": []
+    },
+    "Home Pages/physics/4. mechanics and energy.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 530,
+      "exportedPath": "Home Pages/physics/4. mechanics and energy.html",
+      "dependencies": []
+    },
+    "Home Pages/physics/5. electricity.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 543,
+      "exportedPath": "Home Pages/physics/5. electricity.html",
+      "dependencies": []
+    },
+    "Home Pages/Cipher Challenge 2024.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 548,
+      "exportedPath": "Home Pages/Cipher Challenge 2024.html",
+      "dependencies": []
+    },
+    "Home Pages/practicals.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 780,
+      "exportedPath": "Home Pages/practicals.html",
+      "dependencies": []
+    },
+    "References/glossary.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 358,
+      "exportedPath": "References/glossary.html",
+      "dependencies": []
+    },
+    "Zettlekasten/2's compliment.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 969,
+      "exportedPath": "Zettlekasten/2's compliment.html",
+      "dependencies": []
+    },
+    "Zettlekasten/3D transformations.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 1377,
+      "exportedPath": "Zettlekasten/3D transformations.html",
+      "dependencies": []
+    },
+    "Zettlekasten/aaah please work.html": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 129700,
+      "exportedPath": "Zettlekasten/aaah please work.html",
+      "dependencies": []
+    },
+    "Zettlekasten/absolute error.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 537,
+      "exportedPath": "Zettlekasten/absolute error.html",
+      "dependencies": []
+    },
+    "Zettlekasten/abstraction.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 446,
+      "exportedPath": "Zettlekasten/abstraction.html",
+      "dependencies": []
+    },
+    "Zettlekasten/acceleration.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 1453,
+      "exportedPath": "Zettlekasten/acceleration.html",
+      "dependencies": []
+    },
+    "Zettlekasten/access modifiers.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 329,
+      "exportedPath": "Zettlekasten/access modifiers.html",
+      "dependencies": []
+    },
+    "Zettlekasten/accuracy.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 335,
+      "exportedPath": "Zettlekasten/accuracy.html",
+      "dependencies": []
+    },
+    "Zettlekasten/actual charge.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 478,
+      "exportedPath": "Zettlekasten/actual charge.html",
+      "dependencies": []
+    },
+    "Zettlekasten/actual mass.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 459,
+      "exportedPath": "Zettlekasten/actual mass.html",
+      "dependencies": []
+    },
+    "Zettlekasten/address bus.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 474,
+      "exportedPath": "Zettlekasten/address bus.html",
+      "dependencies": []
+    },
+    "Zettlekasten/addressing mode.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 365,
+      "exportedPath": "Zettlekasten/addressing mode.html",
+      "dependencies": []
+    },
+    "Zettlekasten/aggregation.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 331,
+      "exportedPath": "Zettlekasten/aggregation.html",
+      "dependencies": []
+    },
+    "Zettlekasten/analogue.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 325,
+      "exportedPath": "Zettlekasten/analogue.html",
+      "dependencies": []
+    },
+    "Zettlekasten/AND.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 746,
+      "exportedPath": "Zettlekasten/AND.html",
+      "dependencies": []
+    },
+    "Zettlekasten/angle of incidence.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 255,
+      "exportedPath": "Zettlekasten/angle of incidence.html",
+      "dependencies": []
+    },
+    "Zettlekasten/angle of refraction.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 368,
+      "exportedPath": "Zettlekasten/angle of refraction.html",
+      "dependencies": []
+    },
+    "Zettlekasten/angles between vectors.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 954,
+      "exportedPath": "Zettlekasten/angles between vectors.html",
+      "dependencies": []
+    },
+    "Zettlekasten/annihilation.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 311,
+      "exportedPath": "Zettlekasten/annihilation.html",
+      "dependencies": []
+    },
+    "Zettlekasten/answering a differentiation question.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 1278,
+      "exportedPath": "Zettlekasten/answering a differentiation question.html",
+      "dependencies": []
+    },
+    "Zettlekasten/antineutrino.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 269,
+      "exportedPath": "Zettlekasten/antineutrino.html",
+      "dependencies": []
+    },
+    "Zettlekasten/antiparticle.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 219,
+      "exportedPath": "Zettlekasten/antiparticle.html",
+      "dependencies": []
+    },
+    "Zettlekasten/application layer.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 235,
+      "exportedPath": "Zettlekasten/application layer.html",
+      "dependencies": []
+    },
+    "Zettlekasten/application programming interface.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 328,
+      "exportedPath": "Zettlekasten/application programming interface.html",
+      "dependencies": []
+    },
+    "Zettlekasten/application software.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 843,
+      "exportedPath": "Zettlekasten/application software.html",
+      "dependencies": []
+    },
+    "Zettlekasten/argand diagram.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 990,
+      "exportedPath": "Zettlekasten/argand diagram.html",
+      "dependencies": []
+    },
+    "Zettlekasten/argument.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 369,
+      "exportedPath": "Zettlekasten/argument.html",
+      "dependencies": []
+    },
+    "Zettlekasten/arithmetic logic unit.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 249,
+      "exportedPath": "Zettlekasten/arithmetic logic unit.html",
+      "dependencies": []
+    },
+    "Zettlekasten/arithmetic sequence.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 691,
+      "exportedPath": "Zettlekasten/arithmetic sequence.html",
+      "dependencies": []
+    },
+    "Zettlekasten/arithmetic series.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 499,
+      "exportedPath": "Zettlekasten/arithmetic series.html",
+      "dependencies": []
+    },
+    "Zettlekasten/assembler.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 405,
+      "exportedPath": "Zettlekasten/assembler.html",
+      "dependencies": []
+    },
+    "Zettlekasten/assembly.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 1016,
+      "exportedPath": "Zettlekasten/assembly.html",
+      "dependencies": []
+    },
+    "Zettlekasten/association.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 365,
+      "exportedPath": "Zettlekasten/association.html",
+      "dependencies": []
+    },
+    "Zettlekasten/attribute.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 292,
+      "exportedPath": "Zettlekasten/attribute.html",
+      "dependencies": []
+    },
+    "Zettlekasten/AZ notation.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 354,
+      "exportedPath": "Zettlekasten/AZ notation.html",
+      "dependencies": []
+    },
+    "Zettlekasten/barcode reader.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 896,
+      "exportedPath": "Zettlekasten/barcode reader.html",
+      "dependencies": []
+    },
+    "Zettlekasten/baryon.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 292,
+      "exportedPath": "Zettlekasten/baryon.html",
+      "dependencies": []
+    },
+    "Zettlekasten/baryon number.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 482,
+      "exportedPath": "Zettlekasten/baryon number.html",
+      "dependencies": []
+    },
+    "Zettlekasten/base.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 292,
+      "exportedPath": "Zettlekasten/base.html",
+      "dependencies": []
+    },
+    "Zettlekasten/binary.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 1285,
+      "exportedPath": "Zettlekasten/binary.html",
+      "dependencies": []
+    },
+    "Zettlekasten/binary decimals.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 1631,
+      "exportedPath": "Zettlekasten/binary decimals.html",
+      "dependencies": []
+    },
+    "Zettlekasten/binomial expansion.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 2459,
+      "exportedPath": "Zettlekasten/binomial expansion.html",
+      "dependencies": []
+    },
+    "Zettlekasten/braking and stopping.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 597,
+      "exportedPath": "Zettlekasten/braking and stopping.html",
+      "dependencies": []
+    },
+    "Zettlekasten/buses.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 407,
+      "exportedPath": "Zettlekasten/buses.html",
+      "dependencies": []
+    },
+    "Zettlekasten/bytecode.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 572,
+      "exportedPath": "Zettlekasten/bytecode.html",
+      "dependencies": []
+    },
+    "Zettlekasten/centre of mass.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 294,
+      "exportedPath": "Zettlekasten/centre of mass.html",
+      "dependencies": []
+    },
+    "Zettlekasten/check digit.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 154,
+      "exportedPath": "Zettlekasten/check digit.html",
+      "dependencies": []
+    },
+    "Zettlekasten/checksum (fundamentals of data representation).md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 354,
+      "exportedPath": "Zettlekasten/checksum (fundamentals of data representation).html",
+      "dependencies": []
+    },
+    "Zettlekasten/choose.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 395,
+      "exportedPath": "Zettlekasten/choose.html",
+      "dependencies": []
+    },
+    "Zettlekasten/circle.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 192,
+      "exportedPath": "Zettlekasten/circle.html",
+      "dependencies": []
+    },
+    "Zettlekasten/class.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 940,
+      "exportedPath": "Zettlekasten/class.html",
+      "dependencies": []
+    },
+    "Zettlekasten/class diagram.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 522,
+      "exportedPath": "Zettlekasten/class diagram.html",
+      "dependencies": []
+    },
+    "Zettlekasten/clock.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 356,
+      "exportedPath": "Zettlekasten/clock.html",
+      "dependencies": []
+    },
+    "Zettlekasten/coherent.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 263,
+      "exportedPath": "Zettlekasten/coherent.html",
+      "dependencies": []
+    },
+    "Zettlekasten/collisions of electrons with atoms.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 354,
+      "exportedPath": "Zettlekasten/collisions of electrons with atoms.html",
+      "dependencies": []
+    },
+    "Zettlekasten/compiler.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 817,
+      "exportedPath": "Zettlekasten/compiler.html",
+      "dependencies": []
+    },
+    "Zettlekasten/complex number.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 304,
+      "exportedPath": "Zettlekasten/complex number.html",
+      "dependencies": []
+    },
+    "Zettlekasten/composition.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 479,
+      "exportedPath": "Zettlekasten/composition.html",
+      "dependencies": []
+    },
+    "Zettlekasten/compression.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 685,
+      "exportedPath": "Zettlekasten/compression.html",
+      "dependencies": []
+    },
+    "Zettlekasten/computer system.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 382,
+      "exportedPath": "Zettlekasten/computer system.html",
+      "dependencies": []
+    },
+    "Zettlekasten/concave.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 445,
+      "exportedPath": "Zettlekasten/concave.html",
+      "dependencies": []
+    },
+    "Zettlekasten/conic sections.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 479,
+      "exportedPath": "Zettlekasten/conic sections.html",
+      "dependencies": []
+    },
+    "Zettlekasten/conjugate.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 315,
+      "exportedPath": "Zettlekasten/conjugate.html",
+      "dependencies": []
+    },
+    "Zettlekasten/constructive interference.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 228,
+      "exportedPath": "Zettlekasten/constructive interference.html",
+      "dependencies": []
+    },
+    "Zettlekasten/constructor.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 290,
+      "exportedPath": "Zettlekasten/constructor.html",
+      "dependencies": []
+    },
+    "Zettlekasten/continuous.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 224,
+      "exportedPath": "Zettlekasten/continuous.html",
+      "dependencies": []
+    },
+    "Zettlekasten/control bus.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 664,
+      "exportedPath": "Zettlekasten/control bus.html",
+      "dependencies": []
+    },
+    "Zettlekasten/control unit.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 292,
+      "exportedPath": "Zettlekasten/control unit.html",
+      "dependencies": []
+    },
+    "Zettlekasten/convex.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 445,
+      "exportedPath": "Zettlekasten/convex.html",
+      "dependencies": []
+    },
+    "Zettlekasten/convex combination.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 430,
+      "exportedPath": "Zettlekasten/convex combination.html",
+      "dependencies": []
+    },
+    "Zettlekasten/cosine rule.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 178,
+      "exportedPath": "Zettlekasten/cosine rule.html",
+      "dependencies": []
+    },
+    "Zettlekasten/CPU.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 823,
+      "exportedPath": "Zettlekasten/CPU.html",
+      "dependencies": []
+    },
+    "Zettlekasten/creation.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 294,
+      "exportedPath": "Zettlekasten/creation.html",
+      "dependencies": []
+    },
+    "Zettlekasten/critical angle.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 309,
+      "exportedPath": "Zettlekasten/critical angle.html",
+      "dependencies": []
+    },
+    "Zettlekasten/cross product.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 697,
+      "exportedPath": "Zettlekasten/cross product.html",
+      "dependencies": []
+    },
+    "Zettlekasten/current.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 324,
+      "exportedPath": "Zettlekasten/current.html",
+      "dependencies": []
+    },
+    "Zettlekasten/current instruction register.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 243,
+      "exportedPath": "Zettlekasten/current instruction register.html",
+      "dependencies": []
+    },
+    "Zettlekasten/data bus.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 751,
+      "exportedPath": "Zettlekasten/data bus.html",
+      "dependencies": []
+    },
+    "Zettlekasten/decreasing function.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 317,
+      "exportedPath": "Zettlekasten/decreasing function.html",
+      "dependencies": []
+    },
+    "Zettlekasten/dedicated register.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 474,
+      "exportedPath": "Zettlekasten/dedicated register.html",
+      "dependencies": []
+    },
+    "Zettlekasten/denary.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 218,
+      "exportedPath": "Zettlekasten/denary.html",
+      "dependencies": []
+    },
+    "Zettlekasten/derivative.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 241,
+      "exportedPath": "Zettlekasten/derivative.html",
+      "dependencies": []
+    },
+    "Zettlekasten/destructive interference.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 210,
+      "exportedPath": "Zettlekasten/destructive interference.html",
+      "dependencies": []
+    },
+    "Zettlekasten/destructor.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 249,
+      "exportedPath": "Zettlekasten/destructor.html",
+      "dependencies": []
+    },
+    "Zettlekasten/determinant.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 1172,
+      "exportedPath": "Zettlekasten/determinant.html",
+      "dependencies": []
+    },
+    "Zettlekasten/device driver.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 350,
+      "exportedPath": "Zettlekasten/device driver.html",
+      "dependencies": []
+    },
+    "Zettlekasten/dictionary.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 677,
+      "exportedPath": "Zettlekasten/dictionary.html",
+      "dependencies": []
+    },
+    "Zettlekasten/differentiating trig functions.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 755,
+      "exportedPath": "Zettlekasten/differentiating trig functions.html",
+      "dependencies": []
+    },
+    "Zettlekasten/diffraction.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 648,
+      "exportedPath": "Zettlekasten/diffraction.html",
+      "dependencies": []
+    },
+    "Zettlekasten/diffraction grating.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 1116,
+      "exportedPath": "Zettlekasten/diffraction grating.html",
+      "dependencies": []
+    },
+    "Zettlekasten/digital.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 469,
+      "exportedPath": "Zettlekasten/digital.html",
+      "dependencies": []
+    },
+    "Zettlekasten/digital cameras.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 653,
+      "exportedPath": "Zettlekasten/digital cameras.html",
+      "dependencies": []
+    },
+    "Zettlekasten/direct addressing.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 335,
+      "exportedPath": "Zettlekasten/direct addressing.html",
+      "dependencies": []
+    },
+    "Zettlekasten/discrete.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 235,
+      "exportedPath": "Zettlekasten/discrete.html",
+      "dependencies": []
+    },
+    "Zettlekasten/displacement.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 477,
+      "exportedPath": "Zettlekasten/displacement.html",
+      "dependencies": []
+    },
+    "Zettlekasten/distance.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 297,
+      "exportedPath": "Zettlekasten/distance.html",
+      "dependencies": []
+    },
+    "Zettlekasten/dot product.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 472,
+      "exportedPath": "Zettlekasten/dot product.html",
+      "dependencies": []
+    },
+    "Zettlekasten/dynamic data structures.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 380,
+      "exportedPath": "Zettlekasten/dynamic data structures.html",
+      "dependencies": []
+    },
+    "Zettlekasten/efficiency of a bouncy ball.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 619,
+      "exportedPath": "Zettlekasten/efficiency of a bouncy ball.html",
+      "dependencies": []
+    },
+    "Zettlekasten/electron.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 208,
+      "exportedPath": "Zettlekasten/electron.html",
+      "dependencies": []
+    },
+    "Zettlekasten/electron capture.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 244,
+      "exportedPath": "Zettlekasten/electron capture.html",
+      "dependencies": []
+    },
+    "Zettlekasten/element.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 178,
+      "exportedPath": "Zettlekasten/element.html",
+      "dependencies": []
+    },
+    "Zettlekasten/ellipse.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 205,
+      "exportedPath": "Zettlekasten/ellipse.html",
+      "dependencies": []
+    },
+    "Zettlekasten/embedded system.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 445,
+      "exportedPath": "Zettlekasten/embedded system.html",
+      "dependencies": []
+    },
+    "Zettlekasten/encapsulation.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 537,
+      "exportedPath": "Zettlekasten/encapsulation.html",
+      "dependencies": []
+    },
+    "Zettlekasten/endian.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 372,
+      "exportedPath": "Zettlekasten/endian.html",
+      "dependencies": []
+    },
+    "Zettlekasten/energy.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 658,
+      "exportedPath": "Zettlekasten/energy.html",
+      "dependencies": []
+    },
+    "Zettlekasten/energy levels and spectra.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 1013,
+      "exportedPath": "Zettlekasten/energy levels and spectra.html",
+      "dependencies": []
+    },
+    "Zettlekasten/energy well.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 221,
+      "exportedPath": "Zettlekasten/energy well.html",
+      "dependencies": []
+    },
+    "Zettlekasten/entity.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 221,
+      "exportedPath": "Zettlekasten/entity.html",
+      "dependencies": []
+    },
+    "Zettlekasten/entity relationship diagrams.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 445,
+      "exportedPath": "Zettlekasten/entity relationship diagrams.html",
+      "dependencies": []
+    },
+    "Zettlekasten/equation of a plane.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 473,
+      "exportedPath": "Zettlekasten/equation of a plane.html",
+      "dependencies": []
+    },
+    "Zettlekasten/error detection.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 436,
+      "exportedPath": "Zettlekasten/error detection.html",
+      "dependencies": []
+    },
+    "Zettlekasten/exchange particle.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 732,
+      "exportedPath": "Zettlekasten/exchange particle.html",
+      "dependencies": []
+    },
+    "Zettlekasten/excitation.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 729,
+      "exportedPath": "Zettlekasten/excitation.html",
+      "dependencies": []
+    },
+    "Zettlekasten/exponent.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 1090,
+      "exportedPath": "Zettlekasten/exponent.html",
+      "dependencies": []
+    },
+    "Zettlekasten/factor theorem.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 894,
+      "exportedPath": "Zettlekasten/factor theorem.html",
+      "dependencies": []
+    },
+    "Zettlekasten/factorial.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 333,
+      "exportedPath": "Zettlekasten/factorial.html",
+      "dependencies": []
+    },
+    "Zettlekasten/Feynman diagrams.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 548,
+      "exportedPath": "Zettlekasten/Feynman diagrams.html",
+      "dependencies": []
+    },
+    "Zettlekasten/Fibonacci sequence.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 278,
+      "exportedPath": "Zettlekasten/Fibonacci sequence.html",
+      "dependencies": []
+    },
+    "Zettlekasten/folding method.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 299,
+      "exportedPath": "Zettlekasten/folding method.html",
+      "dependencies": []
+    },
+    "Zettlekasten/force-time graph.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 250,
+      "exportedPath": "Zettlekasten/force-time graph.html",
+      "dependencies": []
+    },
+    "Zettlekasten/function (fundamentals of programming).md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 269,
+      "exportedPath": "Zettlekasten/function (fundamentals of programming).html",
+      "dependencies": []
+    },
+    "Zettlekasten/function (maths).md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 279,
+      "exportedPath": "Zettlekasten/function (maths).html",
+      "dependencies": []
+    },
+    "Zettlekasten/fundamental force.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 483,
+      "exportedPath": "Zettlekasten/fundamental force.html",
+      "dependencies": []
+    },
+    "Zettlekasten/fundamental particle.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 271,
+      "exportedPath": "Zettlekasten/fundamental particle.html",
+      "dependencies": []
+    },
+    "Zettlekasten/fundamental theory of calculus.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 193,
+      "exportedPath": "Zettlekasten/fundamental theory of calculus.html",
+      "dependencies": []
+    },
+    "Zettlekasten/general purpose computer.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 325,
+      "exportedPath": "Zettlekasten/general purpose computer.html",
+      "dependencies": []
+    },
+    "Zettlekasten/general purpose register.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 399,
+      "exportedPath": "Zettlekasten/general purpose register.html",
+      "dependencies": []
+    },
+    "Zettlekasten/geometric sequence.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 386,
+      "exportedPath": "Zettlekasten/geometric sequence.html",
+      "dependencies": []
+    },
+    "Zettlekasten/geometric series.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 531,
+      "exportedPath": "Zettlekasten/geometric series.html",
+      "dependencies": []
+    },
+    "Zettlekasten/getter.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 396,
+      "exportedPath": "Zettlekasten/getter.html",
+      "dependencies": []
+    },
+    "Zettlekasten/global variable.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 294,
+      "exportedPath": "Zettlekasten/global variable.html",
+      "dependencies": []
+    },
+    "Zettlekasten/graph.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 214,
+      "exportedPath": "Zettlekasten/graph.html",
+      "dependencies": []
+    },
+    "Zettlekasten/gravitational potential energy.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 373,
+      "exportedPath": "Zettlekasten/gravitational potential energy.html",
+      "dependencies": []
+    },
+    "Zettlekasten/ground state.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 269,
+      "exportedPath": "Zettlekasten/ground state.html",
+      "dependencies": []
+    },
+    "Zettlekasten/hadron.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 401,
+      "exportedPath": "Zettlekasten/hadron.html",
+      "dependencies": []
+    },
+    "Zettlekasten/hardware.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 185,
+      "exportedPath": "Zettlekasten/hardware.html",
+      "dependencies": []
+    },
+    "Zettlekasten/Harvard architecture.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 740,
+      "exportedPath": "Zettlekasten/Harvard architecture.html",
+      "dependencies": []
+    },
+    "Zettlekasten/hash table.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 893,
+      "exportedPath": "Zettlekasten/hash table.html",
+      "dependencies": []
+    },
+    "Zettlekasten/hashing algorithm.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 871,
+      "exportedPath": "Zettlekasten/hashing algorithm.html",
+      "dependencies": []
+    },
+    "Zettlekasten/hexadecimal.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 746,
+      "exportedPath": "Zettlekasten/hexadecimal.html",
+      "dependencies": []
+    },
+    "Zettlekasten/imaginary.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 369,
+      "exportedPath": "Zettlekasten/imaginary.html",
+      "dependencies": []
+    },
+    "Zettlekasten/immediate addressing.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 458,
+      "exportedPath": "Zettlekasten/immediate addressing.html",
+      "dependencies": []
+    },
+    "Zettlekasten/incident ray.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 320,
+      "exportedPath": "Zettlekasten/incident ray.html",
+      "dependencies": []
+    },
+    "Zettlekasten/increasing function.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 311,
+      "exportedPath": "Zettlekasten/increasing function.html",
+      "dependencies": []
+    },
+    "Zettlekasten/indefinite integration.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 651,
+      "exportedPath": "Zettlekasten/indefinite integration.html",
+      "dependencies": []
+    },
+    "Zettlekasten/inertia.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 260,
+      "exportedPath": "Zettlekasten/inertia.html",
+      "dependencies": []
+    },
+    "Zettlekasten/infinite series expansion.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 215,
+      "exportedPath": "Zettlekasten/infinite series expansion.html",
+      "dependencies": []
+    },
+    "Zettlekasten/inheritance.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 500,
+      "exportedPath": "Zettlekasten/inheritance.html",
+      "dependencies": []
+    },
+    "Zettlekasten/input output devices.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 307,
+      "exportedPath": "Zettlekasten/input output devices.html",
+      "dependencies": []
+    },
+    "Zettlekasten/instantiation.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 321,
+      "exportedPath": "Zettlekasten/instantiation.html",
+      "dependencies": []
+    },
+    "Zettlekasten/instruction set.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 736,
+      "exportedPath": "Zettlekasten/instruction set.html",
+      "dependencies": []
+    },
+    "Zettlekasten/instrument range.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 391,
+      "exportedPath": "Zettlekasten/instrument range.html",
+      "dependencies": []
+    },
+    "Zettlekasten/integration.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 1972,
+      "exportedPath": "Zettlekasten/integration.html",
+      "dependencies": []
+    },
+    "Zettlekasten/interface.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 450,
+      "exportedPath": "Zettlekasten/interface.html",
+      "dependencies": []
+    },
+    "Zettlekasten/interference.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 414,
+      "exportedPath": "Zettlekasten/interference.html",
+      "dependencies": []
+    },
+    "Zettlekasten/internal computer hardware.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 418,
+      "exportedPath": "Zettlekasten/internal computer hardware.html",
+      "dependencies": []
+    },
+    "Zettlekasten/internet.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 580,
+      "exportedPath": "Zettlekasten/internet.html",
+      "dependencies": []
+    },
+    "Zettlekasten/internet security.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 1131,
+      "exportedPath": "Zettlekasten/internet security.html",
+      "dependencies": []
+    },
+    "Zettlekasten/interpreter.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 533,
+      "exportedPath": "Zettlekasten/interpreter.html",
+      "dependencies": []
+    },
+    "Zettlekasten/inverse matrices.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 2292,
+      "exportedPath": "Zettlekasten/inverse matrices.html",
+      "dependencies": []
+    },
+    "Zettlekasten/investigating the photoelectric effect.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 1455,
+      "exportedPath": "Zettlekasten/investigating the photoelectric effect.html",
+      "dependencies": []
+    },
+    "Zettlekasten/ions.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 179,
+      "exportedPath": "Zettlekasten/ions.html",
+      "dependencies": []
+    },
+    "Zettlekasten/isotope.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 212,
+      "exportedPath": "Zettlekasten/isotope.html",
+      "dependencies": []
+    },
+    "Zettlekasten/isotopic data.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 187,
+      "exportedPath": "Zettlekasten/isotopic data.html",
+      "dependencies": []
+    },
+    "Zettlekasten/kaon.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 328,
+      "exportedPath": "Zettlekasten/kaon.html",
+      "dependencies": []
+    },
+    "Zettlekasten/kinetic energy.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 230,
+      "exportedPath": "Zettlekasten/kinetic energy.html",
+      "dependencies": []
+    },
+    "Zettlekasten/laser printers.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 682,
+      "exportedPath": "Zettlekasten/laser printers.html",
+      "dependencies": []
+    },
+    "Zettlekasten/lepton.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 402,
+      "exportedPath": "Zettlekasten/lepton.html",
+      "dependencies": []
+    },
+    "Zettlekasten/lepton number.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 533,
+      "exportedPath": "Zettlekasten/lepton number.html",
+      "dependencies": []
+    },
+    "Zettlekasten/library.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 327,
+      "exportedPath": "Zettlekasten/library.html",
+      "dependencies": []
+    },
+    "Zettlekasten/linear transformations.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 1343,
+      "exportedPath": "Zettlekasten/linear transformations.html",
+      "dependencies": []
+    },
+    "Zettlekasten/linearity.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 389,
+      "exportedPath": "Zettlekasten/linearity.html",
+      "dependencies": []
+    },
+    "Zettlekasten/link layer.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 455,
+      "exportedPath": "Zettlekasten/link layer.html",
+      "dependencies": []
+    },
+    "Zettlekasten/list.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 356,
+      "exportedPath": "Zettlekasten/list.html",
+      "dependencies": []
+    },
+    "Zettlekasten/local maximum.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 351,
+      "exportedPath": "Zettlekasten/local maximum.html",
+      "dependencies": []
+    },
+    "Zettlekasten/local minimum.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 350,
+      "exportedPath": "Zettlekasten/local minimum.html",
+      "dependencies": []
+    },
+    "Zettlekasten/local variable.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 287,
+      "exportedPath": "Zettlekasten/local variable.html",
+      "dependencies": []
+    },
+    "Zettlekasten/loci.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 829,
+      "exportedPath": "Zettlekasten/loci.html",
+      "dependencies": []
+    },
+    "Zettlekasten/logic gates.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 318,
+      "exportedPath": "Zettlekasten/logic gates.html",
+      "dependencies": []
+    },
+    "Zettlekasten/logical bitwise operator.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 398,
+      "exportedPath": "Zettlekasten/logical bitwise operator.html",
+      "dependencies": []
+    },
+    "Zettlekasten/longitudinal waves.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 237,
+      "exportedPath": "Zettlekasten/longitudinal waves.html",
+      "dependencies": []
+    },
+    "Zettlekasten/lossless compression.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 902,
+      "exportedPath": "Zettlekasten/lossless compression.html",
+      "dependencies": []
+    },
+    "Zettlekasten/lossy compression.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 406,
+      "exportedPath": "Zettlekasten/lossy compression.html",
+      "dependencies": []
+    },
+    "Zettlekasten/MAC address.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 263,
+      "exportedPath": "Zettlekasten/MAC address.html",
+      "dependencies": []
+    },
+    "Zettlekasten/machine code.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 667,
+      "exportedPath": "Zettlekasten/machine code.html",
+      "dependencies": []
+    },
+    "Zettlekasten/magnetic storage.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 1078,
+      "exportedPath": "Zettlekasten/magnetic storage.html",
+      "dependencies": []
+    },
+    "Zettlekasten/majority bit check.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 690,
+      "exportedPath": "Zettlekasten/majority bit check.html",
+      "dependencies": []
+    },
+    "Zettlekasten/mantissa.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 931,
+      "exportedPath": "Zettlekasten/mantissa.html",
+      "dependencies": []
+    },
+    "Zettlekasten/matrix transformations.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 1772,
+      "exportedPath": "Zettlekasten/matrix transformations.html",
+      "dependencies": []
+    },
+    "Zettlekasten/medium.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 179,
+      "exportedPath": "Zettlekasten/medium.html",
+      "dependencies": []
+    },
+    "Zettlekasten/memory address register.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 293,
+      "exportedPath": "Zettlekasten/memory address register.html",
+      "dependencies": []
+    },
+    "Zettlekasten/memory buffer register.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 267,
+      "exportedPath": "Zettlekasten/memory buffer register.html",
+      "dependencies": []
+    },
+    "Zettlekasten/meson.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 316,
+      "exportedPath": "Zettlekasten/meson.html",
+      "dependencies": []
+    },
+    "Zettlekasten/metadata.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 379,
+      "exportedPath": "Zettlekasten/metadata.html",
+      "dependencies": []
+    },
+    "Zettlekasten/method.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 387,
+      "exportedPath": "Zettlekasten/method.html",
+      "dependencies": []
+    },
+    "Zettlekasten/MIDI.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 639,
+      "exportedPath": "Zettlekasten/MIDI.html",
+      "dependencies": []
+    },
+    "Zettlekasten/minor.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 501,
+      "exportedPath": "Zettlekasten/minor.html",
+      "dependencies": []
+    },
+    "Zettlekasten/modulus.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 438,
+      "exportedPath": "Zettlekasten/modulus.html",
+      "dependencies": []
+    },
+    "Zettlekasten/Moments.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 650,
+      "exportedPath": "Zettlekasten/Moments.html",
+      "dependencies": []
+    },
+    "Zettlekasten/momentum.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 645,
+      "exportedPath": "Zettlekasten/momentum.html",
+      "dependencies": []
+    },
+    "Zettlekasten/MSB.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 366,
+      "exportedPath": "Zettlekasten/MSB.html",
+      "dependencies": []
+    },
+    "Zettlekasten/multiplying matrices.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 1734,
+      "exportedPath": "Zettlekasten/multiplying matrices.html",
+      "dependencies": []
+    },
+    "Zettlekasten/muon.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 287,
+      "exportedPath": "Zettlekasten/muon.html",
+      "dependencies": []
+    },
+    "Zettlekasten/NAND.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 465,
+      "exportedPath": "Zettlekasten/NAND.html",
+      "dependencies": []
+    },
+    "Zettlekasten/NAND flash memory cells.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 482,
+      "exportedPath": "Zettlekasten/NAND flash memory cells.html",
+      "dependencies": []
+    },
+    "Zettlekasten/network layer.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 190,
+      "exportedPath": "Zettlekasten/network layer.html",
+      "dependencies": []
+    },
+    "Zettlekasten/neutrino.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 187,
+      "exportedPath": "Zettlekasten/neutrino.html",
+      "dependencies": []
+    },
+    "Zettlekasten/neutrons.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 163,
+      "exportedPath": "Zettlekasten/neutrons.html",
+      "dependencies": []
+    },
+    "Zettlekasten/Newton’s 1st Law.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 358,
+      "exportedPath": "Zettlekasten/Newton’s 1st Law.html",
+      "dependencies": []
+    },
+    "Zettlekasten/Newton’s 2nd Law.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 400,
+      "exportedPath": "Zettlekasten/Newton’s 2nd Law.html",
+      "dependencies": []
+    },
+    "Zettlekasten/Newton’s 3rd Law.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 363,
+      "exportedPath": "Zettlekasten/Newton’s 3rd Law.html",
+      "dependencies": []
+    },
+    "Zettlekasten/Newton’s Laws of Motion.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 748,
+      "exportedPath": "Zettlekasten/Newton’s Laws of Motion.html",
+      "dependencies": []
+    },
+    "Zettlekasten/NOR.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 445,
+      "exportedPath": "Zettlekasten/NOR.html",
+      "dependencies": []
+    },
+    "Zettlekasten/normal.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 178,
+      "exportedPath": "Zettlekasten/normal.html",
+      "dependencies": []
+    },
+    "Zettlekasten/normalisation (fundamentals of data representation).md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 517,
+      "exportedPath": "Zettlekasten/normalisation (fundamentals of data representation).html",
+      "dependencies": []
+    },
+    "Zettlekasten/normalisation (fundamentals of databases).md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 1256,
+      "exportedPath": "Zettlekasten/normalisation (fundamentals of databases).html",
+      "dependencies": []
+    },
+    "Zettlekasten/NOT.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 612,
+      "exportedPath": "Zettlekasten/NOT.html",
+      "dependencies": []
+    },
+    "Zettlekasten/nucleon.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 229,
+      "exportedPath": "Zettlekasten/nucleon.html",
+      "dependencies": []
+    },
+    "Zettlekasten/nucleus.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 176,
+      "exportedPath": "Zettlekasten/nucleus.html",
+      "dependencies": []
+    },
+    "Zettlekasten/nuclide.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 215,
+      "exportedPath": "Zettlekasten/nuclide.html",
+      "dependencies": []
+    },
+    "Zettlekasten/number systems.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 510,
+      "exportedPath": "Zettlekasten/number systems.html",
+      "dependencies": []
+    },
+    "Zettlekasten/nyquist theorem.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 294,
+      "exportedPath": "Zettlekasten/nyquist theorem.html",
+      "dependencies": []
+    },
+    "Zettlekasten/object.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 593,
+      "exportedPath": "Zettlekasten/object.html",
+      "dependencies": []
+    },
+    "Zettlekasten/object oriented programming.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 1000,
+      "exportedPath": "Zettlekasten/object oriented programming.html",
+      "dependencies": []
+    },
+    "Zettlekasten/operand.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 279,
+      "exportedPath": "Zettlekasten/operand.html",
+      "dependencies": []
+    },
+    "Zettlekasten/operating system.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 2482,
+      "exportedPath": "Zettlekasten/operating system.html",
+      "dependencies": []
+    },
+    "Zettlekasten/operation code.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 381,
+      "exportedPath": "Zettlekasten/operation code.html",
+      "dependencies": []
+    },
+    "Zettlekasten/optical fibres.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 2666,
+      "exportedPath": "Zettlekasten/optical fibres.html",
+      "dependencies": []
+    },
+    "Zettlekasten/optical storage.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 1173,
+      "exportedPath": "Zettlekasten/optical storage.html",
+      "dependencies": []
+    },
+    "Zettlekasten/OR.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 677,
+      "exportedPath": "Zettlekasten/OR.html",
+      "dependencies": []
+    },
+    "Zettlekasten/oscilloscope.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 1141,
+      "exportedPath": "Zettlekasten/oscilloscope.html",
+      "dependencies": []
+    },
+    "Zettlekasten/parabola.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 345,
+      "exportedPath": "Zettlekasten/parabola.html",
+      "dependencies": []
+    },
+    "Zettlekasten/parity bit.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 537,
+      "exportedPath": "Zettlekasten/parity bit.html",
+      "dependencies": []
+    },
+    "Zettlekasten/partial fractions.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 1587,
+      "exportedPath": "Zettlekasten/partial fractions.html",
+      "dependencies": []
+    },
+    "Zettlekasten/particle reaction quantities.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 351,
+      "exportedPath": "Zettlekasten/particle reaction quantities.html",
+      "dependencies": []
+    },
+    "Zettlekasten/particle wave duality.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 613,
+      "exportedPath": "Zettlekasten/particle wave duality.html",
+      "dependencies": []
+    },
+    "Zettlekasten/pascal's triangle.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 743,
+      "exportedPath": "Zettlekasten/pascal's triangle.html",
+      "dependencies": []
+    },
+    "Zettlekasten/path difference.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 235,
+      "exportedPath": "Zettlekasten/path difference.html",
+      "dependencies": []
+    },
+    "Zettlekasten/peripherals.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 302,
+      "exportedPath": "Zettlekasten/peripherals.html",
+      "dependencies": []
+    },
+    "Zettlekasten/phase difference.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 167,
+      "exportedPath": "Zettlekasten/phase difference.html",
+      "dependencies": []
+    },
+    "Zettlekasten/photoelectric effect.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 877,
+      "exportedPath": "Zettlekasten/photoelectric effect.html",
+      "dependencies": []
+    },
+    "Zettlekasten/photoelectron.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 235,
+      "exportedPath": "Zettlekasten/photoelectron.html",
+      "dependencies": []
+    },
+    "Zettlekasten/photon.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 253,
+      "exportedPath": "Zettlekasten/photon.html",
+      "dependencies": []
+    },
+    "Zettlekasten/pion.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 361,
+      "exportedPath": "Zettlekasten/pion.html",
+      "dependencies": []
+    },
+    "Zettlekasten/point of inflection.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 356,
+      "exportedPath": "Zettlekasten/point of inflection.html",
+      "dependencies": []
+    },
+    "Zettlekasten/polarisation.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 549,
+      "exportedPath": "Zettlekasten/polarisation.html",
+      "dependencies": []
+    },
+    "Zettlekasten/polymorphism.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 440,
+      "exportedPath": "Zettlekasten/polymorphism.html",
+      "dependencies": []
+    },
+    "Zettlekasten/polynomial.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 206,
+      "exportedPath": "Zettlekasten/polynomial.html",
+      "dependencies": []
+    },
+    "Zettlekasten/power (algebra and functions).md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 192,
+      "exportedPath": "Zettlekasten/power (algebra and functions).html",
+      "dependencies": []
+    },
+    "Zettlekasten/power (mechanics and energy).md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 1194,
+      "exportedPath": "Zettlekasten/power (mechanics and energy).html",
+      "dependencies": []
+    },
+    "Zettlekasten/precision.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 621,
+      "exportedPath": "Zettlekasten/precision.html",
+      "dependencies": []
+    },
+    "Zettlekasten/primary key.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 339,
+      "exportedPath": "Zettlekasten/primary key.html",
+      "dependencies": []
+    },
+    "Zettlekasten/private.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 386,
+      "exportedPath": "Zettlekasten/private.html",
+      "dependencies": []
+    },
+    "Zettlekasten/procedural programming.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 332,
+      "exportedPath": "Zettlekasten/procedural programming.html",
+      "dependencies": []
+    },
+    "Zettlekasten/procedure.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 275,
+      "exportedPath": "Zettlekasten/procedure.html",
+      "dependencies": []
+    },
+    "Zettlekasten/processor.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 1370,
+      "exportedPath": "Zettlekasten/processor.html",
+      "dependencies": []
+    },
+    "Zettlekasten/program counter.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 257,
+      "exportedPath": "Zettlekasten/program counter.html",
+      "dependencies": []
+    },
+    "Zettlekasten/programming concepts.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 276,
+      "exportedPath": "Zettlekasten/programming concepts.html",
+      "dependencies": []
+    },
+    "Zettlekasten/programming language translators.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 874,
+      "exportedPath": "Zettlekasten/programming language translators.html",
+      "dependencies": []
+    },
+    "Zettlekasten/projectile motion.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 2190,
+      "exportedPath": "Zettlekasten/projectile motion.html",
+      "dependencies": []
+    },
+    "Zettlekasten/proof by deduction.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 704,
+      "exportedPath": "Zettlekasten/proof by deduction.html",
+      "dependencies": []
+    },
+    "Zettlekasten/proof by division.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 830,
+      "exportedPath": "Zettlekasten/proof by division.html",
+      "dependencies": []
+    },
+    "Zettlekasten/proof by induction.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 1029,
+      "exportedPath": "Zettlekasten/proof by induction.html",
+      "dependencies": []
+    },
+    "Zettlekasten/proof by matrices.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 2067,
+      "exportedPath": "Zettlekasten/proof by matrices.html",
+      "dependencies": []
+    },
+    "Zettlekasten/protected.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 414,
+      "exportedPath": "Zettlekasten/protected.html",
+      "dependencies": []
+    },
+    "Zettlekasten/public.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 398,
+      "exportedPath": "Zettlekasten/public.html",
+      "dependencies": []
+    },
+    "Zettlekasten/QR code.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 515,
+      "exportedPath": "Zettlekasten/QR code.html",
+      "dependencies": []
+    },
+    "Zettlekasten/quark.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 1521,
+      "exportedPath": "Zettlekasten/quark.html",
+      "dependencies": []
+    },
+    "Zettlekasten/queue.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 1178,
+      "exportedPath": "Zettlekasten/queue.html",
+      "dependencies": []
+    },
+    "Zettlekasten/RAM.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 322,
+      "exportedPath": "Zettlekasten/RAM.html",
+      "dependencies": []
+    },
+    "Zettlekasten/random errors.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 801,
+      "exportedPath": "Zettlekasten/random errors.html",
+      "dependencies": []
+    },
+    "Zettlekasten/real.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 292,
+      "exportedPath": "Zettlekasten/real.html",
+      "dependencies": []
+    },
+    "Zettlekasten/reciprocal.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 306,
+      "exportedPath": "Zettlekasten/reciprocal.html",
+      "dependencies": []
+    },
+    "Zettlekasten/rectangular hyperbola.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 352,
+      "exportedPath": "Zettlekasten/rectangular hyperbola.html",
+      "dependencies": []
+    },
+    "Zettlekasten/recursive sequence.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 428,
+      "exportedPath": "Zettlekasten/recursive sequence.html",
+      "dependencies": []
+    },
+    "Zettlekasten/refraction.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 1148,
+      "exportedPath": "Zettlekasten/refraction.html",
+      "dependencies": []
+    },
+    "Zettlekasten/refractive index.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 319,
+      "exportedPath": "Zettlekasten/refractive index.html",
+      "dependencies": []
+    },
+    "Zettlekasten/relation.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 280,
+      "exportedPath": "Zettlekasten/relation.html",
+      "dependencies": []
+    },
+    "Zettlekasten/relative charge.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 191,
+      "exportedPath": "Zettlekasten/relative charge.html",
+      "dependencies": []
+    },
+    "Zettlekasten/relative error.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 475,
+      "exportedPath": "Zettlekasten/relative error.html",
+      "dependencies": []
+    },
+    "Zettlekasten/relative mass.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 199,
+      "exportedPath": "Zettlekasten/relative mass.html",
+      "dependencies": []
+    },
+    "Zettlekasten/repeatable and reproduceable.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 322,
+      "exportedPath": "Zettlekasten/repeatable and reproduceable.html",
+      "dependencies": []
+    },
+    "Zettlekasten/representing images.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 711,
+      "exportedPath": "Zettlekasten/representing images.html",
+      "dependencies": []
+    },
+    "Zettlekasten/representing sound.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 940,
+      "exportedPath": "Zettlekasten/representing sound.html",
+      "dependencies": []
+    },
+    "Zettlekasten/resolution.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 331,
+      "exportedPath": "Zettlekasten/resolution.html",
+      "dependencies": []
+    },
+    "Zettlekasten/resolving vectors.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 427,
+      "exportedPath": "Zettlekasten/resolving vectors.html",
+      "dependencies": []
+    },
+    "Zettlekasten/resultant vector.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 402,
+      "exportedPath": "Zettlekasten/resultant vector.html",
+      "dependencies": []
+    },
+    "Zettlekasten/reverse polish notation.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 1039,
+      "exportedPath": "Zettlekasten/reverse polish notation.html",
+      "dependencies": []
+    },
+    "Zettlekasten/RFID.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 1022,
+      "exportedPath": "Zettlekasten/RFID.html",
+      "dependencies": []
+    },
+    "Zettlekasten/ROM.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 545,
+      "exportedPath": "Zettlekasten/ROM.html",
+      "dependencies": []
+    },
+    "Zettlekasten/roots of polynomials.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 904,
+      "exportedPath": "Zettlekasten/roots of polynomials.html",
+      "dependencies": []
+    },
+    "Zettlekasten/sampling rate.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 394,
+      "exportedPath": "Zettlekasten/sampling rate.html",
+      "dependencies": []
+    },
+    "Zettlekasten/sampling resolution.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 507,
+      "exportedPath": "Zettlekasten/sampling resolution.html",
+      "dependencies": []
+    },
+    "Zettlekasten/scalar.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 258,
+      "exportedPath": "Zettlekasten/scalar.html",
+      "dependencies": []
+    },
+    "Zettlekasten/second derivative.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 1565,
+      "exportedPath": "Zettlekasten/second derivative.html",
+      "dependencies": []
+    },
+    "Zettlekasten/secondary storage.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 529,
+      "exportedPath": "Zettlekasten/secondary storage.html",
+      "dependencies": []
+    },
+    "Zettlekasten/sequence.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 279,
+      "exportedPath": "Zettlekasten/sequence.html",
+      "dependencies": []
+    },
+    "Zettlekasten/series.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 463,
+      "exportedPath": "Zettlekasten/series.html",
+      "dependencies": []
+    },
+    "Zettlekasten/setter.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 322,
+      "exportedPath": "Zettlekasten/setter.html",
+      "dependencies": []
+    },
+    "Zettlekasten/SI base units.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 1009,
+      "exportedPath": "Zettlekasten/SI base units.html",
+      "dependencies": []
+    },
+    "Zettlekasten/sign bit.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 547,
+      "exportedPath": "Zettlekasten/sign bit.html",
+      "dependencies": []
+    },
+    "Zettlekasten/singular matrix.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 196,
+      "exportedPath": "Zettlekasten/singular matrix.html",
+      "dependencies": []
+    },
+    "Zettlekasten/Snell’s law.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 638,
+      "exportedPath": "Zettlekasten/Snell’s law.html",
+      "dependencies": []
+    },
+    "Zettlekasten/software.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 264,
+      "exportedPath": "Zettlekasten/software.html",
+      "dependencies": []
+    },
+    "Zettlekasten/solid state storage.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 920,
+      "exportedPath": "Zettlekasten/solid state storage.html",
+      "dependencies": []
+    },
+    "Zettlekasten/source code.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 271,
+      "exportedPath": "Zettlekasten/source code.html",
+      "dependencies": []
+    },
+    "Zettlekasten/specific charge.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 540,
+      "exportedPath": "Zettlekasten/specific charge.html",
+      "dependencies": []
+    },
+    "Zettlekasten/specificity of measurement.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 1218,
+      "exportedPath": "Zettlekasten/specificity of measurement.html",
+      "dependencies": []
+    },
+    "Zettlekasten/speed and velocity.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 950,
+      "exportedPath": "Zettlekasten/speed and velocity.html",
+      "dependencies": []
+    },
+    "Zettlekasten/stable equilibrium.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 343,
+      "exportedPath": "Zettlekasten/stable equilibrium.html",
+      "dependencies": []
+    },
+    "Zettlekasten/stack.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 423,
+      "exportedPath": "Zettlekasten/stack.html",
+      "dependencies": []
+    },
+    "Zettlekasten/static data structures.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 408,
+      "exportedPath": "Zettlekasten/static data structures.html",
+      "dependencies": []
+    },
+    "Zettlekasten/stationary point.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 420,
+      "exportedPath": "Zettlekasten/stationary point.html",
+      "dependencies": []
+    },
+    "Zettlekasten/status register.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 333,
+      "exportedPath": "Zettlekasten/status register.html",
+      "dependencies": []
+    },
+    "Zettlekasten/stopping potential.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 392,
+      "exportedPath": "Zettlekasten/stopping potential.html",
+      "dependencies": []
+    },
+    "Zettlekasten/stored program concept.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 423,
+      "exportedPath": "Zettlekasten/stored program concept.html",
+      "dependencies": []
+    },
+    "Zettlekasten/strangeness.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 482,
+      "exportedPath": "Zettlekasten/strangeness.html",
+      "dependencies": []
+    },
+    "Zettlekasten/strong nuclear force.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 335,
+      "exportedPath": "Zettlekasten/strong nuclear force.html",
+      "dependencies": []
+    },
+    "Zettlekasten/subclass.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 367,
+      "exportedPath": "Zettlekasten/subclass.html",
+      "dependencies": []
+    },
+    "Zettlekasten/subroutine.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 422,
+      "exportedPath": "Zettlekasten/subroutine.html",
+      "dependencies": []
+    },
+    "Zettlekasten/successive transformations.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 615,
+      "exportedPath": "Zettlekasten/successive transformations.html",
+      "dependencies": []
+    },
+    "Zettlekasten/sum.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 605,
+      "exportedPath": "Zettlekasten/sum.html",
+      "dependencies": []
+    },
+    "Zettlekasten/summation.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 1126,
+      "exportedPath": "Zettlekasten/summation.html",
+      "dependencies": []
+    },
+    "Zettlekasten/superclass.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 405,
+      "exportedPath": "Zettlekasten/superclass.html",
+      "dependencies": []
+    },
+    "Zettlekasten/SUVAT equations.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 854,
+      "exportedPath": "Zettlekasten/SUVAT equations.html",
+      "dependencies": []
+    },
+    "Zettlekasten/system software.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 634,
+      "exportedPath": "Zettlekasten/system software.html",
+      "dependencies": []
+    },
+    "Zettlekasten/systematic errors.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 390,
+      "exportedPath": "Zettlekasten/systematic errors.html",
+      "dependencies": []
+    },
+    "Zettlekasten/tangent (trigonometry).md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 418,
+      "exportedPath": "Zettlekasten/tangent (trigonometry).html",
+      "dependencies": []
+    },
+    "Zettlekasten/TCP-IP protocol stack.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 623,
+      "exportedPath": "Zettlekasten/TCP-IP protocol stack.html",
+      "dependencies": []
+    },
+    "Zettlekasten/term.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 254,
+      "exportedPath": "Zettlekasten/term.html",
+      "dependencies": []
+    },
+    "Zettlekasten/Text evaluation.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 143,
+      "exportedPath": "Zettlekasten/Text evaluation.html",
+      "dependencies": []
+    },
+    "Zettlekasten/The Galois field.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 264,
+      "exportedPath": "Zettlekasten/The Galois field.html",
+      "dependencies": []
+    },
+    "Zettlekasten/the principle of conservation of momentum.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 309,
+      "exportedPath": "Zettlekasten/the principle of conservation of momentum.html",
+      "dependencies": []
+    },
+    "Zettlekasten/threshold frequency.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 433,
+      "exportedPath": "Zettlekasten/threshold frequency.html",
+      "dependencies": []
+    },
+    "Zettlekasten/total internal reflection.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 1699,
+      "exportedPath": "Zettlekasten/total internal reflection.html",
+      "dependencies": []
+    },
+    "Zettlekasten/transport layer.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 312,
+      "exportedPath": "Zettlekasten/transport layer.html",
+      "dependencies": []
+    },
+    "Zettlekasten/transverse waves.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 261,
+      "exportedPath": "Zettlekasten/transverse waves.html",
+      "dependencies": []
+    },
+    "Zettlekasten/trees.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 378,
+      "exportedPath": "Zettlekasten/trees.html",
+      "dependencies": []
+    },
+    "Zettlekasten/trigonometric identities.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 2679,
+      "exportedPath": "Zettlekasten/trigonometric identities.html",
+      "dependencies": []
+    },
+    "Zettlekasten/trigonometric values.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 554,
+      "exportedPath": "Zettlekasten/trigonometric values.html",
+      "dependencies": []
+    },
+    "Zettlekasten/uncertainty.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 771,
+      "exportedPath": "Zettlekasten/uncertainty.html",
+      "dependencies": []
+    },
+    "Zettlekasten/underflow error.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 303,
+      "exportedPath": "Zettlekasten/underflow error.html",
+      "dependencies": []
+    },
+    "Zettlekasten/UPC-A.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 848,
+      "exportedPath": "Zettlekasten/UPC-A.html",
+      "dependencies": []
+    },
+    "Zettlekasten/utility software.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 313,
+      "exportedPath": "Zettlekasten/utility software.html",
+      "dependencies": []
+    },
+    "Zettlekasten/valid.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 231,
+      "exportedPath": "Zettlekasten/valid.html",
+      "dependencies": []
+    },
+    "Zettlekasten/vector (fundamentals of data representation).md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 1627,
+      "exportedPath": "Zettlekasten/vector (fundamentals of data representation).html",
+      "dependencies": []
+    },
+    "Zettlekasten/vector (mechanics and energy).md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 562,
+      "exportedPath": "Zettlekasten/vector (mechanics and energy).html",
+      "dependencies": []
+    },
+    "Zettlekasten/vector component (mechanics and energy).md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 565,
+      "exportedPath": "Zettlekasten/vector component (mechanics and energy).html",
+      "dependencies": []
+    },
+    "Zettlekasten/vector images.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 372,
+      "exportedPath": "Zettlekasten/vector images.html",
+      "dependencies": []
+    },
+    "Zettlekasten/velocity.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 710,
+      "exportedPath": "Zettlekasten/velocity.html",
+      "dependencies": []
+    },
+    "Zettlekasten/Von Neumann architecture.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 530,
+      "exportedPath": "Zettlekasten/Von Neumann architecture.html",
+      "dependencies": []
+    },
+    "Zettlekasten/weak nuclear force.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 440,
+      "exportedPath": "Zettlekasten/weak nuclear force.html",
+      "dependencies": []
+    },
+    "Zettlekasten/word length.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 352,
+      "exportedPath": "Zettlekasten/word length.html",
+      "dependencies": []
+    },
+    "Zettlekasten/work.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 480,
+      "exportedPath": "Zettlekasten/work.html",
+      "dependencies": []
+    },
+    "Zettlekasten/work function.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 435,
+      "exportedPath": "Zettlekasten/work function.html",
+      "dependencies": []
+    },
+    "Zettlekasten/XOR.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 757,
+      "exportedPath": "Zettlekasten/XOR.html",
+      "dependencies": []
+    },
+    "Zettlekasten/zero error.md": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 485,
+      "exportedPath": "Zettlekasten/zero error.html",
+      "dependencies": []
+    },
+    "lib/fonts/94f2f163d4b698242fef.otf": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 66800,
+      "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
+      "dependencies": []
+    },
+    "lib/fonts/72505e6a122c6acd5471.woff2": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 104232,
+      "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/2d5198822ab091ce4305.woff2": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 104332,
+      "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 98868,
+      "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/cb10ffd7684cd9836a05.woff2": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 106876,
+      "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/b5f0f109bc88052d4000.woff2": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 105804,
+      "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/cbe0ae49c52c920fd563.woff2": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 106108,
+      "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/535a6cf662596b3bd6a6.woff2": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 111708,
+      "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/70cc7ff27245e82ad414.ttf": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 192740,
+      "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/454577c22304619db035.ttf": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 161376,
+      "exportedPath": "lib/fonts/454577c22304619db035.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/52ac8f3034507f1d9e53.ttf": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 191568,
+      "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/05b618077343fbbd92b7.ttf": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 155288,
+      "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 7876,
+      "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+      "dependencies": []
+    },
+    "lib/media/874d8b8e340f75575caa.svg": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 317,
+      "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Zero.woff": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 1368,
+      "exportedPath": "lib/fonts/MathJax_Zero.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Main-Regular.woff": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 34160,
+      "exportedPath": "lib/fonts/MathJax_Main-Regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Main-Bold.woff": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 34464,
+      "exportedPath": "lib/fonts/MathJax_Main-Bold.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Math-Italic.woff": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 19360,
+      "exportedPath": "lib/fonts/MathJax_Math-Italic.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Main-Italic.woff": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 20832,
+      "exportedPath": "lib/fonts/MathJax_Main-Italic.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Math-BoldItalic.woff": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 19776,
+      "exportedPath": "lib/fonts/MathJax_Math-BoldItalic.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Size1-Regular.woff": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 5792,
+      "exportedPath": "lib/fonts/MathJax_Size1-Regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Size2-Regular.woff": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 5464,
+      "exportedPath": "lib/fonts/MathJax_Size2-Regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Size3-Regular.woff": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 3244,
+      "exportedPath": "lib/fonts/MathJax_Size3-Regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Size4-Regular.woff": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 5148,
+      "exportedPath": "lib/fonts/MathJax_Size4-Regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_AMS-Regular.woff": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 40808,
+      "exportedPath": "lib/fonts/MathJax_AMS-Regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Calligraphic-Regular.woff": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 9600,
+      "exportedPath": "lib/fonts/MathJax_Calligraphic-Regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Calligraphic-Bold.woff": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 9908,
+      "exportedPath": "lib/fonts/MathJax_Calligraphic-Bold.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Fraktur-Regular.woff": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 21480,
+      "exportedPath": "lib/fonts/MathJax_Fraktur-Regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Fraktur-Bold.woff": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 22340,
+      "exportedPath": "lib/fonts/MathJax_Fraktur-Bold.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_SansSerif-Regular.woff": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 12660,
+      "exportedPath": "lib/fonts/MathJax_SansSerif-Regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_SansSerif-Bold.woff": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 15944,
+      "exportedPath": "lib/fonts/MathJax_SansSerif-Bold.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_SansSerif-Italic.woff": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 14628,
+      "exportedPath": "lib/fonts/MathJax_SansSerif-Italic.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Script-Regular.woff": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 11852,
+      "exportedPath": "lib/fonts/MathJax_Script-Regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Typewriter-Regular.woff": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 17604,
+      "exportedPath": "lib/fonts/MathJax_Typewriter-Regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Vector-Regular.woff": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 1136,
+      "exportedPath": "lib/fonts/MathJax_Vector-Regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Vector-Bold.woff": {
+      "modifiedTime": 1708543931375,
+      "sourceSize": 1116,
+      "exportedPath": "lib/fonts/MathJax_Vector-Bold.woff",
+      "dependencies": []
+    }
+  }
+}

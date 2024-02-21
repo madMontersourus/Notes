@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto&display=swap" rel="stylesheet">
+    <title>Loading...</title>
+
+    <style>
+        html, body {
+            margin: 0;
+            padding: 0;
+            width: 100vw;
+            height: 100vw;
+            overflow: hidden;
+        }
+
+        .roboto-regular {
+            font-family: "Roboto", sans-serif;
+            font-weight: 400;
+            font-style: normal;
+        }
+
+        .main {
+            background-color: #118e5c;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+
+            margin: 0;
+            padding: 0;
+            width: 100vw;
+            height: 100vh;
+        }
+
+        .loading {
+            color: whitesmoke;
+        }
+    </style>
+</head>
+<body>
+    <div id="content" class="roboto-regular main"></div>
+    <script>
+        const content = document.getElementById("content");
+
+        try {
+            content.innerHTML = "<h1 class='loading'>Loading...</h1>";
+            var root = window.location.toString().substring(0, window.location.toString().lastIndexOf("/"));
+            //window.location.href = root + "Home Pages/physics/4. mechanics and energy.html";
+        }
+        catch {
+            content.innerHTML = "<h1 style='color:red'>Oops, something went wrong...</h1>"
+        }
+    </script>
+</body>
+</html>
